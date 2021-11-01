@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/eoludotun-harrys/foo/compare/v2.1.0...v2.1.1) (2021-11-01)
+
+
+### fix
+
+* testing fix ([81236f2](https://github.com/eoludotun-harrys/foo/commit/81236f23e2cc835beceb4b750e3bcfb0fd2d47a4))
+
 # [2.1.0](https://github.com/eoludotun-harrys/foo/compare/v2.0.0...v2.1.0) (2021-11-01)
 
 
