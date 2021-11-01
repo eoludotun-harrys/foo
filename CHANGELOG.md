@@ -1,3 +1,10 @@
+# [3.0.0](https://github.com/eoludotun-harrys/foo/compare/v2.2.0...v3.0.0) (2021-11-01)
+
+
+### breaking
+
+* testing major breaking ([e8f9bcf](https://github.com/eoludotun-harrys/foo/commit/e8f9bcfc7d81603cfbf73bcd67d78d182b4926a4))
+
 # [2.2.0](https://github.com/eoludotun-harrys/foo/compare/v2.1.1...v2.2.0) (2021-11-01)
 
 
